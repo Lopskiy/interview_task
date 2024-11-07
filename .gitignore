@@ -1,0 +1,7 @@
+!.gitignore
+logs/
+.Trash-1000/
+.vscode/
+__pycache__
+.logs
+
